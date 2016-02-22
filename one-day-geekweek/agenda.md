@@ -16,7 +16,6 @@ A single day, heavy duty, partially hands-on introduction to discussions around 
 
 ---
 
-
 ##Part 1:
 * Definititions & Why
     * DevOps?
@@ -28,19 +27,21 @@ A single day, heavy duty, partially hands-on introduction to discussions around 
   * Why Agile - the manifesto
   * Basic mechanics of one style (SCRUM)
 
-  
+---
+
 ##Part 3:
 * Cloud Native Applications
   * Why they are 'taking over'
-  * The 12 Factors
+  * The 12 Factors - Basics on CNA
 
 ##Part 4:
 * Cloud Native Platforms
   * Ops Management + Services + Runtime
   * Prescriptive vs. Unstructured
 
-##Part 5:
+---
 
+##Part 5 & 6:
 * Source Code Management
   * Why it matters
   * Infrastructure as Code
@@ -51,6 +52,8 @@ A single day, heavy duty, partially hands-on introduction to discussions around 
   * Where it runs / how
   * Developer & Operator Experience
   * *Hands On*: `cf push` checked out app
+
+---
 
 ##Part 7:
 
